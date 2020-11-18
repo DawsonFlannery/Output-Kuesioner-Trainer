@@ -1,0 +1,31 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css2?family=Nunito');
+
+* {
+  font-family: 'Playfair Display';
+  font-size: 10pt;
+}
+
+.star {
+  width: 5%;
+}
+
+.subhead {
+  font-family: 'Nunito' , sans-serif;
+}
+
+.box{
+  width:600px;
+  margin:0 auto;
+  border:1px solid #ccc;
+ }
+
+ input
+{
+  font-family: 'Nunito' , sans-serif;
+}
+
+.selesai{
+  font-family: 'Playfair Display';
+}
